@@ -1,0 +1,38 @@
+*{
+  box-sizing: border-box;
+}
+
+html,body{
+  margin:0;
+  padding:0;
+
+}
+button{
+  margin: 8px;
+  width: 40px;
+  height: 40px;
+}
+
+.cal_box{
+  margin:50px;
+  padding: 50px;
+background: #fff8b8;
+width: 400px;
+height: 500px;
+
+}
+.input_box{
+  margin-bottom: 30px;
+  background: #a7f4ff;
+  width: 300px;
+  height: 100px;
+ display: inline-block;
+ font-size: 50px;
+ 
+}
+.body_box{
+  background: powderblue;
+  width: 300px;
+  height: 280px;
+  display: inline-block;
+}
